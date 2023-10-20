@@ -1,5 +1,5 @@
 {
-  "name": "pkg-name",
+  "name": "@zwkang-dev/ts-helper",
   "version": "0.0.0",
   "packageManager": "pnpm@7.9.0",
   "description": "> description:",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.coim/zwkang/pkg-name.git"
+    "url": "git+https://github.coim/zwkang/@zwkang-dev/ts-helper.git"
   },
-  "bugs": "https://github.coim/zwkang/pkg-name/issues",
+  "bugs": "https://github.coim/zwkang/@zwkang-dev/ts-helper/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
@@ -55,10 +55,12 @@
     "eslint": "^8.22.0",
     "eslint-config-alloy": "^4.6.2",
     "prettier": "^2.7.1",
+    "tsd": "^0.29.0",
     "tsup": "^6.2.2",
     "tsx": "^3.8.2",
     "typescript": "^4.7.4",
     "vitest": "^0.22.1",
+    "vue": "^3.2.47",
     "zwkang-prettier-config": "^0.0.3"
   },
   "license": "MIT"
